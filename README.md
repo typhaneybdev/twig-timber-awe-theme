@@ -4,7 +4,7 @@ I built a basic bootstrapped blog theme along with a tutorial utilizing Twig and
 
 In order to develop this project I set up a local MAMP sever with the latest version of WordPress. Used Git to manage directories, files, install dependencies including composer, Timber, Bootstrap, Laravel Mix (BrowserSync), and Node.js (with NPM).
 
-#Resources:
+##Resources:
 
 - [Timber](https://github.com/timber/timber)
 - [Twig](https://twig.symfony.com/)
